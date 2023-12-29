@@ -1,5 +1,5 @@
 {
-	"version" : "2.2.5",
+	"version" : "2.2.6",
 	"appName" : "tennisHelper",
 	"updateDate" : "2023.12.29",
 	"updateInfo" : "1. 연동서버 변경. *이전 버전은 꼭 삭제해 주세요"
