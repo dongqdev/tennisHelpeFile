@@ -1,6 +1,6 @@
 {
-	"version" : "2.2.6",
+	"version" : "2.3.0",
 	"appName" : "tennisHelper",
-	"updateDate" : "2024.01.09",
-	"updateInfo" : "1. 아이디 삭제 기능 쉽게 변경\n2. 2024 신규 운영계획 반영 \n*이전 버전은 꼭 삭제해 주세요"
+	"updateDate" : "2024.02.015",
+	"updateInfo" : "1. 2024 신규 운영계획 반영 \n2. mbuster우회\n\n*이전 버전은 꼭 삭제해 주세요"
 }
